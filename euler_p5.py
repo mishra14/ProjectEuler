@@ -13,6 +13,5 @@ if __name__ == '__main__':
 	for i in xrange(3, 21):
 		res = lcm(x, i)
 		x = res
-		
-		
+
 print "Answer: {}".format(res)
