@@ -1,6 +1,7 @@
 # Project Euler
 
-Language: Python
+Language: Python</br>
+
 Instructions: 
 * Clone the repository as `git clone https://github.com/mishra14/ProjectEuler.git`.
 * Execute the python script as `python euler_pX.py`, where X is the problem number.
