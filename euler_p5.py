@@ -11,9 +11,8 @@ def lcm(a, b):
 if __name__ == '__main__':
 	x = lcm(1, 2)
 	for i in xrange(3, 21):
-		print x, i
 		res = lcm(x, i)
 		x = res
-
-print 'done'
-print res
+		
+		
+print "Answer: {}".format(res)

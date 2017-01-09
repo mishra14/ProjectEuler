@@ -9,5 +9,4 @@ for i in xrange(x):
 
 sum_sqr = sum_sqr * sum_sqr
 
-print sum_sqr - sum_of_sqr
-print 'done'
+print "Answer: {}".format(sum_sqr - sum_of_sqr)
