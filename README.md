@@ -1,11 +1,11 @@
 # Project Euler
 
+## Language
+Python
+
 ## Status
 * Max solved problem: 10
 * Unsolved problem: 7
-
-## Language
-Python
 
 ## Instructions
 * Clone the repository as `git clone https://github.com/mishra14/ProjectEuler.git`.
