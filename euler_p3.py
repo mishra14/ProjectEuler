@@ -1,4 +1,4 @@
-import prime_numbers
+import prime_numbers_oop as prime_numbers
 import sys
 
 x = 600851475143
